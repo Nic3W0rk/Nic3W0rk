@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nic3W0rk
 - 👀 I’m interested in Data Bases and Code
-- 🌱 I’m currently learning Analytcs, Python and SQL
+- 🌱 I’m currently learning Marketing Analytcs, Python and SQL
 - 📫 Reach me on Disc: nicew0rk
 
 <!---
